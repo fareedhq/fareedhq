@@ -36,7 +36,7 @@ An evidence-first web reconnaissance and security assessment CLI written in Pyth
 - Designed for systems you own or are authorized to assess
 
 ```bash
-shamtrace scan https://authorized-target.example --pages 3
+shamtrace scan https://authorized-target.example --authorized --pages 3
 ```
 
 ## Tools and technologies
